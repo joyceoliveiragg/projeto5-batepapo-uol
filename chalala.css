@@ -38,12 +38,15 @@
 	opacity: 0;
 
 	transition: all 1s ease-out;
-}
+} 
 
 .home-screen-brand-content{
 	margin-top: 72px;
-	margin-bottom: 84px;
-}
+		margin-bottom: 84px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 
 .home-screen-brand{
 	width: 130px;
